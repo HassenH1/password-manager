@@ -1,0 +1,19 @@
+html, body, #root {
+  min-height: 100%;
+}
+
+#root {
+  position: relative;
+}
+
+body {
+  margin: 0;
+  font-family: "Concert One"; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
